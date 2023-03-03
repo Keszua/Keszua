@@ -4,6 +4,7 @@ Ma za sobą prawie **10 letnie** doświadczenie w programowanie mikrokontroleró
 Półtopra rok doświadczenia na stanowisku **Full Stack Developer**.
 
 <hr/>
+
 #### Ukończyłem roczny [Bootcamp Studiuje IT](https://www.studiuje.it/) 
 Przedmioty na tym kursie: 
 - Fundamenty programowania
@@ -27,6 +28,7 @@ Przedmioty na tym kursie:
 - NestJS
 
 <hr/>
+
 ## Znane języki i technologie
 <p align="left">
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="80" height="80"/>
