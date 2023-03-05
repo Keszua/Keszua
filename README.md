@@ -7,79 +7,26 @@ Półtopra rok doświadczenia na stanowisku **Full Stack Developer**.
 
 #### Ukończyłem roczny [Bootcamp Studiuje IT](https://www.studiuje.it/) 
 <p align="center">
-  <a href="https://www.studiuje.it/" target="_blank" rel="noreferrer"> <img src="./images/studiujeit.png" alt="MegaK" height="50"/>
+  <a href="https://www.studiuje.it/" target="_blank" rel="noreferrer"> <img src="./images/studiujeit.png" alt="MegaK" height="40"/>
   </a>
 </p>
 
-Przedmioty na tym kursie: 
-$\colorbox{black}{\color{white}Fundamenty programowania}$ $\colorbox{#8fde5b}{\color{black}Matematyka dla programistów}$ $\colorbox{black}{\color{white}Zarządzanie projektami IT}$ $\colorbox{#8fde5b}{\color{black}Inżynieria oprogramowania}$ $\colorbox{black}{\color{white}Sieci komputerowe}$ $\colorbox{#8fde5b}{\color{black}Algorytmy i struktury danych}$ $\colorbox{black}{\color{white}Bazy danych }$ $\colorbox{#8fde5b}{\color{black}Prawo w IT}$ $\colorbox{black}{\color{white}Systemy operacyjne}$ 
-
+Przedmioty na tym kursie: `Fundamenty programowania` `Matematyka dla programistów` `Zarządzanie projektami IT` `Inżynieria oprogramowania` `white}Sieci komputerowe` `Algorytmy i struktury danych` `Bazy danych` `Prawo w IT` `Systemy operacyjne` 
 
 #### Obecnie jestem na rocznym bootcampie [Mega Kursu JavaScriptu MegaK](https://www.megak.pl) 
 <p align="center">
-  <a href="https://www.megak.pl/" target="_blank" rel="noreferrer"> <img src="./images/megak.png" alt="MegaK" height="70"/>
+  <a href="https://www.megak.pl/" target="_blank" rel="noreferrer"> <img src="./images/megak.png" alt="MegaK" height="60"/>
   </a>
 </p>
 
 Przedmioty na tym kursie:
-
-<p align="center">
-  <svg width="600" height="60" >
-    <rect x="0" y="0" width="600" height="60" stroke="black" stroke-width="1" />
-    <g>
-      <rect width="90" height="30" fill="#e8e846"/>
-        <text x="5" y="20" stroke="black" stroke-width=0.5 fill="black">JavaScript</text>
-      <rect x=110 width="72" height="30" fill="#8fde5b"/>
-        <text x="120" y="20" stroke="black" stroke-width=0.5 fill="black" >node.js</text>
-      <rect x=200 width="78" height="30" fill="#ddd"/>
-        <text x="210" y="20" stroke="black" stroke-width=0.5 fill="black" >Express</text>
-      <rect x=300 width="78" height="30" stroke="white" stroke-width=1.08 />
-        <text x="310" y="20" stroke="#258ec5" stroke-width=0.4 fill="#258ec5" >My</text>
-        <text x="332" y="20" stroke="#cf9f32" stroke-width=1 fill="#cf9f32" >SQL</text>
-      <rect x=400 width="90" height="30" stroke="#1e9633" stroke-width=1.4 />
-        <text x="410" y="20" stroke="#8fde5b" stroke-width=0.3 fill="#8fde5b" >MongoDb</text>
-      <rect x=510 width="95" height="30" stroke="#258ec5" stroke-width=1.4 fill="#257ec5"/>
-        <text x="520" y="20" stroke="white" stroke-width=0 fill="white">TypeScript</text>
-      <rect x=630 width="65" height="30" stroke="#258ec5" stroke-width=1.4 fill="white"/>
-        <text x="640" y="20" stroke="#3c87ff" stroke-width=0.3 fill="#3c87ff">React</text>
-      <rect x=720 width="60" height="30" stroke="#cf3a4e" stroke-width=1.4 fill="black"/>
-        <text x="732" y="20" stroke="#cf3a4e" stroke-width=0.3 fill="#cf3a4e">Nest</text>
-    <rect x="800" width="90" height="30" fill="#e8e846"/>
-        <text x="805" y="20" stroke="black" stroke-width=0.5 fill="black">JavaScript</text>
-      <rect x=910 width="72" height="30" fill="#8fde5b"/>
-        <text x="920" y="20" stroke="black" stroke-width=0.5 fill="black" >node.js</text>
-      <rect x=1000 width="78" height="30" fill="#ddd"/>
-        <text x="1010" y="20" stroke="black" stroke-width=0.5 fill="black" >Express</text>
-      <rect x=1100 width="78" height="30" stroke="white" stroke-width=1.08 />
-        <text x="1110" y="20" stroke="#258ec5" stroke-width=0.4 fill="#258ec5" >My</text>
-        <text x="1132" y="20" stroke="#cf9f32" stroke-width=1 fill="#cf9f32" >SQL</text>
-      <rect x=1200 width="90" height="30" stroke="#1e9633" stroke-width=1.4 />
-        <text x="1210" y="20" stroke="#8fde5b" stroke-width=0.3 fill="#8fde5b" >MongoDb</text>
-      <rect x=1310 width="95" height="30" stroke="#258ec5" stroke-width=1.4 fill="#257ec5"/>
-        <text x="1320" y="20" stroke="white" stroke-width=0 fill="white">TypeScript</text>
-      <rect x=1420 width="65" height="30" stroke="#258ec5" stroke-width=1.4 fill="white"/>
-        <text x="1430" y="20" stroke="#3c87ff" stroke-width=0.3 fill="#3c87ff">React</text>
-      <rect x=1500 width="60" height="30" stroke="#cf3a4e" stroke-width=1.4 fill="black"/>
-        <text x="1512" y="20" stroke="#cf3a4e" stroke-width=0.3 fill="#cf3a4e">Nest</text>
-      <animateMotion
-        dur="5s"
-        path="M15,15 -780,15" 
-        repeatCount="indefinite" />
-    </g>
-    <!-- <g>
-      <animateMotion
-        dur="5s"
-        path="M370,25 190,25 180,10 60,10 50,25 0,25"
-        repeatCount="indefinite" />
-    </g> -->
-  </svg>
-</p>
+`JavaScript` `node.js` `Express` `MySQL` `MongoDb` `TypeScript` `React` `Git` `Nest`
 
 <hr/>
 
 ## Znane języki i technologie
 
-####<img src="https://www.svgrepo.com/show/379153/flip-to-front.svg" width="40" float="left" align="center"/> Front
+<img src="https://www.svgrepo.com/show/379153/flip-to-front.svg" width="40" float="left" align="center"/> Front
 
 <p align="center">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>
@@ -100,7 +47,7 @@ Przedmioty na tym kursie:
   </a> 
 </p>
 
-####<img src="https://www.svgrepo.com/show/379154/flip-to-back.svg" width="40" float="left" align="center"/> Back
+<img src="https://www.svgrepo.com/show/379154/flip-to-back.svg" width="40" float="left" align="center"/> Back
 
 <p align="center" float="top">
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/376337/node-js.svg" alt="nodejs" height="80"/>
@@ -135,7 +82,7 @@ Przedmioty na tym kursie:
   </a> 
 </p>
 
-####<img src="https://www.svgrepo.com/show/426067/tools1.svg" width="40" align="center"/> Pozostałe
+<img src="https://www.svgrepo.com/show/426067/tools1.svg" width="40" align="center"/> Pozostałe
 
 <p align="center">
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/331370/docker.svg" alt="docker" width="50" height="40"/> 
