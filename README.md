@@ -49,17 +49,17 @@ Przedmioty na tym kursie:
 
 <img src="https://www.svgrepo.com/show/379154/flip-to-back.svg" width="40" float="left" align="center"/> Back
 
+<p align="center">
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303360/nodejs-logo.svg" alt="nodejs" width="100"/>
+  </a> 
+</p>
 <p align="center" float="top">
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/376337/node-js.svg" alt="nodejs" height="80"/>
-  </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/452075/node-js.svg" alt="nodejs"  height="44"/>
-  </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a> 
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   </a> 
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="70" height="60"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" height="40"/> 
   </a> 
   <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="50" height="40"/>
   </a> 
@@ -74,11 +74,11 @@ Przedmioty na tym kursie:
   </a> 
 </p>
 <p align="center">
-  <a href="https://go.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/go.svg" alt="go" width="50" height="40"/> 
+  <a href="https://go.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/go.svg" alt="go" height="30"/> 
   </a> 
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" alt="git" width="40" height="40"/> 
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" alt="git" height="30"/> 
   </a> 
-  <a href="https://www.php.net/" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303208/php-1-logo.svg" alt="php" width="40" height="40"/> 
+  <a href="https://www.php.net/" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303208/php-1-logo.svg" alt="php" width="30" /> 
   </a> 
 </p>
 
@@ -89,6 +89,11 @@ Przedmioty na tym kursie:
   </a> 
   <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/kubernetes.svg" alt="kubernetes" width="40" height="40"/> 
   </a> 
+  </a> 
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/448266/aws.svg" alt="kubernetes" width="40" height="40"/> 
+  </a> 
+  <a href="https://aws.amazon.com/eks/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/448262/amazon-eks.svg" alt="kubernetes" width="40" height="40"/> 
+  </a> 	
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="40"/> 
   </a> 
   <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg" alt="github" width="50" height="40"/> 
