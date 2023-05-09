@@ -1,11 +1,11 @@
 #  Karol Michalczyk
 Ukończyłem studia wyższe na kierunku Elektrotechnika (w zakresie: Automatyka i informatyka) z tytułem magister inżynier.
-Ma za sobą prawie **10 letnie** doświadczenie w programowanie mikrokontrolerów ARM w języku **C** oraz **C++**.
-Półtopra rok doświadczenia na stanowisku **Full Stack Developer**.
+Ma za sobą prawie **10 letnie** doświadczenie w programowaniu mikrokontrolerów ARM w języku **C** oraz **C++**.
+Dwa lata doświadczenia na stanowisku **Full Stack Developer**.
 
 <hr/>
 
-#### Ukończyłem roczny [Bootcamp Studiuje IT](https://www.studiuje.it/) 
+#### Ukończyłem roczny bootcamp [Studiuje IT](https://www.studiuje.it/) 
 <p align="center">
   <a href="https://www.studiuje.it/" target="_blank" rel="noreferrer"> <img src="./images/studiujeit.png" alt="MegaK" height="40"/>
   </a>
@@ -13,14 +13,14 @@ Półtopra rok doświadczenia na stanowisku **Full Stack Developer**.
 
 Przedmioty na tym kursie: `Fundamenty programowania` `Matematyka dla programistów` `Zarządzanie projektami IT` `Inżynieria oprogramowania` `white}Sieci komputerowe` `Algorytmy i struktury danych` `Bazy danych` `Prawo w IT` `Systemy operacyjne` 
 
-#### Obecnie jestem na rocznym bootcampie [Mega Kursu JavaScriptu MegaK](https://www.megak.pl) 
+#### Obecnie jestem na ostatnim etapie rocznego bootcampu [Mega Kursu JavaScriptu MegaK](https://www.megak.pl) 
 <p align="center">
   <a href="https://www.megak.pl/" target="_blank" rel="noreferrer"> <img src="./images/megak.png" alt="MegaK" height="60"/>
   </a>
 </p>
 
 Przedmioty na tym kursie:
-`JavaScript` `node.js` `Express` `MySQL` `MongoDb` `TypeScript` `React` `Git` `Nest`
+`JavaScript` `node.js` `Express` `MySQL` `MongoDb` `TypeScript` `React` `Git` `NestJS`
 
 <hr/>
 
