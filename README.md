@@ -5,7 +5,13 @@ Dwa lata doświadczenia na stanowisku **Full Stack Developer**.
 
 <hr/>
 
-#### Ukończyłem roczny bootcamp [Studiuje IT](https://www.studiuje.it/) 
+#### Aktualnie uczę się sztucznej inteligencji na kursie [mistrz.ai](https://mistrz.ai/) 
+
+Przedmioty na tym kursie:
+`Mag słowa GPT` `Automatyzacja i optymalizacja` `Asystent AI nauki programowania` `Narzędzia AI – gry, grafika, modele` `Integracja API OpenAI i własne wtyczki do ChatGPT` `Lepszy inżynier oprogramowania dzięki AI` `Matematyka, statystyka, ML, sieci neuronowe`
+
+
+#### Ukończyłem roczny kurs [Studiuje IT](https://www.studiuje.it/) 
 <p align="center">
   <a href="https://www.studiuje.it/" target="_blank" rel="noreferrer"> <img src="./images/studiujeit.png" alt="MegaK" height="40"/>
   </a>
@@ -13,7 +19,8 @@ Dwa lata doświadczenia na stanowisku **Full Stack Developer**.
 
 Przedmioty na tym kursie: `Fundamenty programowania` `Matematyka dla programistów` `Zarządzanie projektami IT` `Inżynieria oprogramowania` `white}Sieci komputerowe` `Algorytmy i struktury danych` `Bazy danych` `Prawo w IT` `Systemy operacyjne` 
 
-#### Obecnie jestem na ostatnim etapie rocznego bootcampu [Mega Kursu JavaScriptu MegaK](https://www.megak.pl) 
+
+#### Ukończyłem roczny kurs [Mega Kursu JavaScriptu MegaK](https://www.megak.pl) 
 <p align="center">
   <a href="https://www.megak.pl/" target="_blank" rel="noreferrer"> <img src="./images/megak.png" alt="MegaK" height="60"/>
   </a>
