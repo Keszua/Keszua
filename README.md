@@ -17,7 +17,7 @@ Przedmioty na tym kursie:
   </a>
 </p>
 
-Przedmioty na tym kursie: `Fundamenty programowania` `Matematyka dla programistów` `Zarządzanie projektami IT` `Inżynieria oprogramowania` `white}Sieci komputerowe` `Algorytmy i struktury danych` `Bazy danych` `Prawo w IT` `Systemy operacyjne` 
+Przedmioty na tym kursie: `Fundamenty programowania` `Matematyka dla programistów` `Zarządzanie projektami IT` `Inżynieria oprogramowania` `Sieci komputerowe` `Algorytmy i struktury danych` `Bazy danych` `Prawo w IT` `Systemy operacyjne` 
 
 
 #### Ukończyłem roczny kurs [Mega Kursu JavaScriptu MegaK](https://www.megak.pl) 
