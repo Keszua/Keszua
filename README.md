@@ -5,20 +5,36 @@ Dwa lata doświadczenia na stanowisku **Full Stack Developer**.
 
 <hr/>
 
-#### Aktualnie uczę się sztucznej inteligencji na kursie [mistrz.ai](https://mistrz.ai/) 
+#### Aktualnie uczę się kreować frontend na kursie [frontowcy.pl](https://frontowcy.pl/) 
+
+<p align="center">
+  <a href="https://frontowcy.pl/" target="_blank" rel="noreferrer"> <img src="https://frontowcy.pl/images/logo-p-500.png" alt="MegaK" height="50"/>
+  </a>
+</p>
+
+
+
+
+
+<br/><br/>
+
+#### Ukończyłem pół roczny kurs sztucznej inteligencji [mistrz.ai](https://mistrz.ai/) 
+
+<p align="center">
+  <a href="https://mistrz.ai/" target="_blank" rel="noreferrer"> <img src="./images/mistrz-ai-logo.jpg" alt="MegaK" height="50"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/1pV5cqlsbZ0aVAe26ijL78quFtXrFwroA/view" target="_blank" rel="noreferrer"> <img src="./images/mistrz-ai.jpg" alt="MegaK" height="300"/>
+  </a>
+</p>
+
 
 Przedmioty na tym kursie:
 `Mag słowa GPT` `Automatyzacja i optymalizacja` `Asystent AI nauki programowania` `Narzędzia AI – gry, grafika, modele` `Integracja API OpenAI i własne wtyczki do ChatGPT` `Lepszy inżynier oprogramowania dzięki AI` `Matematyka, statystyka, ML, sieci neuronowe`
 
-
-#### Ukończyłem roczny kurs [Studiuje IT](https://www.studiuje.it/) 
-<p align="center">
-  <a href="https://www.studiuje.it/" target="_blank" rel="noreferrer"> <img src="./images/studiujeit.png" alt="MegaK" height="40"/>
-  </a>
-</p>
-
-Przedmioty na tym kursie: `Fundamenty programowania` `Matematyka dla programistów` `Zarządzanie projektami IT` `Inżynieria oprogramowania` `Sieci komputerowe` `Algorytmy i struktury danych` `Bazy danych` `Prawo w IT` `Systemy operacyjne` 
-
+<br/><br/>
 
 #### Ukończyłem roczny kurs [Mega Kursu JavaScriptu MegaK](https://www.megak.pl) 
 <p align="center">
@@ -28,6 +44,16 @@ Przedmioty na tym kursie: `Fundamenty programowania` `Matematyka dla programist�
 
 Przedmioty na tym kursie:
 `JavaScript` `node.js` `Express` `MySQL` `MongoDb` `TypeScript` `React` `Git` `NestJS`
+
+<br/><br/>
+
+#### Ukończyłem roczny kurs [Studiuje IT](https://www.studiuje.it/) 
+<p align="center">
+  <a href="https://www.studiuje.it/" target="_blank" rel="noreferrer"> <img src="./images/studiujeit.png" alt="MegaK" height="40"/>
+  </a>
+</p>
+
+Przedmioty na tym kursie: `Fundamenty programowania` `Matematyka dla programistów` `Zarządzanie projektami IT` `Inżynieria oprogramowania` `Sieci komputerowe` `Algorytmy i struktury danych` `Bazy danych` `Prawo w IT` `Systemy operacyjne` 
 
 <hr/>
 
@@ -66,9 +92,9 @@ Przedmioty na tym kursie:
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   </a> 
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" height="40"/> 
+  <img src="./images/express.jpg" alt="express" height="40"/> 
   </a> 
-  <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="50" height="40"/>
+  <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://nestjs.com/logo-small-gradient.76616405.svg" alt="nestjs" width="50" height="40"/>
   </a> 
 </p>
 
@@ -92,6 +118,8 @@ Przedmioty na tym kursie:
 <img src="https://www.svgrepo.com/show/426067/tools1.svg" width="40" align="center"/> Pozostałe
 
 <p align="center">
+  <a href="https://openai.com/" target="_blank" rel="noreferrer"> <img src="./images/gpt.jpg" alt="ChatGPT" width="40" height="40"/> 
+  </a> 
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/331370/docker.svg" alt="docker" width="50" height="40"/> 
   </a> 
   <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/kubernetes.svg" alt="kubernetes" width="40" height="40"/> 
@@ -103,8 +131,8 @@ Przedmioty na tym kursie:
   </a> 	
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="40"/> 
   </a> 
-  <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg" alt="github" width="50" height="40"/> 
-  </a> 
+  <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="./images/github.png" alt="github" width="40" height="40"/>
+  </a>
   <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" alt="c" width="50" height="40"/> 
   </a> 
   <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" alt="c++" width="50" height="40"/> 
@@ -118,6 +146,8 @@ Przedmioty na tym kursie:
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/374171/vscode.svg" alt="vsc" width="40" height="40"/> 
   </a> 
   <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/448236/linux.svg" alt="linux" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="./images/blender.jpg" alt="blender" width="40" height="40"/> 
   </a> 
 </p>
 
