@@ -1,7 +1,7 @@
 #  Karol Michalczyk
-Ukończyłem studia wyższe na kierunku Elektrotechnika (w zakresie: Automatyka i informatyka) z tytułem magister inżynier.
-Ma za sobą prawie **10 letnie** doświadczenie w programowaniu mikrokontrolerów ARM w języku **C** oraz **C++**.
-Dwa lata doświadczenia na stanowisku **Full Stack Developer**.
+Ukończyłem studia wyższe na kierunku Elektrotechnika (w zakresie: Automatyka i informatyka) z tytułem magister inżynier. <br/>
+Ma za sobą prawie **10 letnie** doświadczenie w programowaniu mikrokontrolerów ARM w języku **C** oraz **C++**. <br/>
+Trzy lata komercyjnego doświadczenia na stanowisku **Full Stack Developer**.
 
 <hr/>
 
@@ -11,10 +11,6 @@ Dwa lata doświadczenia na stanowisku **Full Stack Developer**.
   <a href="https://frontowcy.pl/" target="_blank" rel="noreferrer"> <img src="https://frontowcy.pl/images/logo-p-500.png" alt="MegaK" height="50"/>
   </a>
 </p>
-
-
-
-
 
 <br/><br/>
 
@@ -26,7 +22,7 @@ Dwa lata doświadczenia na stanowisku **Full Stack Developer**.
 </p>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1pV5cqlsbZ0aVAe26ijL78quFtXrFwroA/view" target="_blank" rel="noreferrer"> <img src="./images/mistrz-ai.jpg" alt="MegaK" height="300"/>
+  <a href="https://drive.google.com/file/d/1pV5cqlsbZ0aVAe26ijL78quFtXrFwroA/view" target="_blank" rel="noreferrer"> <img src="./images/mistrz-ai.jpg" alt="MegaK" height="200"/>
   </a>
 </p>
 
